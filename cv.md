@@ -17,7 +17,7 @@
 * MySQL
 ---
 ### Experience 
-* Few back-and projects 
+* Few back-and projects on laravel and php 
 ---
 ### Education 
 * University: State University of Intelligent Technologies and Communications, Bachelor in software engineering
